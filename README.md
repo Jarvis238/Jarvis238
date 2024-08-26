@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect Me With </h3>
 <p align="center">
-<a href="mailto:sanjay238rps@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Email.png" alt="mailto:sanjay238rps@gmail.com" height="40" width="40"/></a>
+<a href="mailto:sanjay238rps@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Email1.png" alt="mailto:sanjay238rps@gmail.com" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/sanjayprakash38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjayprakash38" height="30" width="40" /></a>
 </p>
 
