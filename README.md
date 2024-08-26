@@ -15,6 +15,6 @@
 </p><hr>
 
 
-<td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td>
+<p align="center"><td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td></p>
 <h3 align="center">Thank you for visiting Jarvis238 </h3>
   <h4 align="center">Have a nice day mate! </h4>
