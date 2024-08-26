@@ -7,7 +7,6 @@
 <h2 align="center">A passionate frontend developer</h2>
 <p align="center">
 🔭 I’m currently working on Building Website<br></p>
-<h4></h4>
 <p align="center">⚡ Fun fact I'm a Coffee guy</p>
 <h2 align="center">Connect Me With </h2>
 <p align="center">
