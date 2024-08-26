@@ -1,7 +1,9 @@
 ![cover](https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Cover.png)
 <br>
 
-<h1 align="center">Hey 👋, I'm Sanjay Prakash</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1000&pause=2000&color=A716FF&center=true&width=435&lines=SANJAY PRAKASH;JARVIS238"/></a>
+</p>
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on **Building Website**
