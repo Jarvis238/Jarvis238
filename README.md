@@ -12,11 +12,9 @@
 <p align="center">
 <a href="mailto:sanjay238rps@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Email1.png" alt="mailto:sanjay238rps@gmail.com" height="40" width="40"/></a> ㅤㅤ
 <a href="https://www.linkedin.com/in/sanjayprakash38" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Linkedin1.png" alt="https://www.linkedin.com/in/sanjayprakash38" height="30" width="40" /></a>
-</p>
-
-
+</p><hr>
 
 
 <td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td>
-<h3 align="center">Thank you for visiting psyclox </h3>
+<h3 align="center">Thank you for visiting Jarvis238 </h3>
   <h4 align="center">Have a nice day mate! </h4>
