@@ -6,8 +6,9 @@
 </p>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center">
-🔭 I’m currently working on Building Website<br>
-⚡ Fun fact I'm a Coffee guy</p>
+🔭 I’m currently working on Building Website<br></p>
+<h4></h4>
+<p align="center">⚡ Fun fact I'm a Coffee guy</p>
 <h3 align="center">Connect Me With </h3>
 <p align="center">
 <a href="mailto:sanjay238rps@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Email1.png" alt="mailto:sanjay238rps@gmail.com" height="40" width="40"/></a> ㅤㅤ
