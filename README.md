@@ -18,7 +18,7 @@
 <p align="center"><td><img align="center" height="150" src="https://github.com/psyclox/psyclox/assets/160267134/cb9941e6-0b7a-42fa-8c15-e920eb9f44d8" /></td></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1000&pause=2000&color=02CFFFFF&center=true&width=435&lines= Thankyou visiting Jarvis238;Have a nice day mate!"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1000&pause=2000&color=02CFFFFF&center=true&width=435&lines=  Thankyou visiting Jarvis238;Have a nice day mate!"/></a>
 </p><hr>
 
 
