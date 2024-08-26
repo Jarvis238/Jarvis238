@@ -5,11 +5,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1000&pause=2000&color=02CFFFFF&center=true&width=435&lines=SANJAY PRAKASH;JARVIS238"/></a>
 </p>
 <h3 align="center">A passionate frontend developer</h3>
-<center>
-- 🔭 I’m currently working on **Building Website**
+<p align="center">
+- 🔭 I’m currently working on Building Website
 
-- ⚡ Fun fact **I'm a Coffee guy**
-</center>
+- ⚡ Fun fact I'm a Coffee guy
+  </p>
 <h3 align="center">Connect Me With </h3>
 <p align="center">
 <a href="mailto:sanjay238rps@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Email1.png" alt="mailto:sanjay238rps@gmail.com" height="40" width="40"/></a> ㅤㅤ
