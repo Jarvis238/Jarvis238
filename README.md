@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center">
-- 🔭 I’m currently working on Building Website
+- 🔭 I’m currently working on Building Website<br>
 - ⚡ Fun fact I'm a Coffee guy</p>
 <h3 align="center">Connect Me With </h3>
 <p align="center">
