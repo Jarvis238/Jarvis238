@@ -8,7 +8,7 @@
 <p align="center">
 🔭 I’m currently working on Building Website<br></p>
 <p align="center">⚡ Fun fact I'm a Coffee guy</p><hr>
-<h3 align="center">Connect Me With </h3>
+<h3 align="center">Connect With Me Via </h3>
 <p align="center">
 <a href="mailto:sanjay238rps@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Email1.png" alt="mailto:sanjay238rps@gmail.com" height="40" width="40"/></a> ㅤㅤ
 <a href="https://www.linkedin.com/in/sanjayprakash38" target="blank"><img align="center" src="https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Linkedin1.png" alt="https://www.linkedin.com/in/sanjayprakash38" height="30" width="40" /></a>
