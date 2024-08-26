@@ -1,3 +1,6 @@
+![cover](https://raw.githubusercontent.com/Jarvis238/Asset/main/docx/Cover.png)
+<br>
+
 <h1 align="center">Hey 👋, I'm Sanjay Prakash</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
