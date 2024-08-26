@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1000&pause=2000&color=02CFFFFF&center=true&width=435&lines=Have a Great day"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=900&size=24&letterSpacing=4px&duration=1000&pause=2000&color=02CFFFFF&center=true&width=435&lines=Have a Great day Mate!"/></a>
 </p>
 <hr>
 
